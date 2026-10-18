@@ -1,0 +1,4 @@
+instagrapi
+aiograpi
+requests
+playwright
